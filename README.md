@@ -6,7 +6,7 @@ The plain text is encoded to numbers: a=00 b=01 c=02 d=03.... Then compression i
 
 Review the **ElGamal Encryption Redacted.pdf** to understand the algorithm.
 
-
+Run the script: **ElGamal_Encryption Compression.py**
 
 ![alt text](https://github.com/Nishaant215/El_Gamal_Encryption_with_Compression/blob/main/El%20Gamal%20encryption%20P1.jpg)
 ![alt text](https://github.com/Nishaant215/El_Gamal_Encryption_with_Compression/blob/main/El%20Gamal%20encryption%20P2.jpg)
